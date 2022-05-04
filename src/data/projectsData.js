@@ -11,11 +11,11 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
-        projectName: 'History Through Movies',
-        projectDesc: 'This project seeks to explore whether the pedagogy of history can be improved with the visual media, particularly Cinema. The Website is intended to show movies that fit the bill. I have a fullstack role in this having built all of it.',
-        tags: ['Django', 'HTML' ,'CSS', 'Javascript'],
-        code: 'https://github.com/sreerag-rajan/historythroughmovies',
-        demo: 'https://historythroughmovies.pythonanywhere.com/',
+        projectName: 'Oman Pakistan Embassy Application',
+        projectDesc: 'This application is playing a vital role in order to handle all admin level activities like notification and news update and setting up pending status .',
+        tags: ['React', 'Firestore' , 'Cloud Functions' ,'CSS', 'Javascript'],
+        code: '',
+        demo: 'https://pakistan-embassy-muscat-6280f.web.app/login',
         image: "https://github.com/sreerag-rajan/historythroughmovies/raw/master/htclandingpage.png"
     },
     {
