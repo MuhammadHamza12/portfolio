@@ -16,16 +16,16 @@ export const projectsData = [
         tags: ['React', 'Firestore' , 'Cloud Functions' ,'CSS', 'Javascript'],
         code: '',
         demo: 'https://pakistan-embassy-muscat-6280f.web.app/login',
-        image: "https://github.com/sreerag-rajan/historythroughmovies/raw/master/htclandingpage.png"
+        image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/project_1.png"
     },
     {
         id: 2,
-        projectName: 'Sportsjam.in Clone',
-        projectDesc: 'This is a clone of an e-commerce website sportsjam.in. My contribution to this project was the product catalogue page and its features, like sorting and filtering. The rest of the project was built by various members of the group',
-        tags: ['HTML', 'CSS','Javascript'],
-        code: 'https://github.com/sreerag-rajan/sportsjam-clone',
-        demo: 'https://practical-meninsky-36f305.netlify.app/',
-        image: "https://camo.githubusercontent.com/f9fbe30b577cff2fbf09af53fb3c1f12fcc10a771bf9459ed5af10bffab9e38b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a525f5f63646e384c316759474b3154647171797562672e706e67"
+        projectName: 'School Smart',
+        projectDesc: 'This is complete school ERP system, including all modules Finance , LMS , CMS , TimeTable and Attendence and much more as well',
+        tags: ['React','Nodejs','Javascript','MySQL'],
+        code: '',
+        demo: 'https://dak.schoolsmart.org.uk/',
+        image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/project_2.png"
     },
     {
         id: 3,
