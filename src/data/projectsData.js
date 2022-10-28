@@ -28,6 +28,15 @@ export const projectsData = [
         image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/project_2.png"
     },
     {
+        id: 21,
+        projectName: 'School Smart',
+        projectDesc: 'This is complete school ERP system, including all modules Finance , LMS , CMS , TimeTable and Attendence and much more as well',
+        tags: ['React','Nodejs','Javascript','MySQL'],
+        code: '',
+        demo: 'https://dak.schoolsmart.org.uk/',
+        image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/coinsiren.png"
+    },
+    {
         id: 3,
         projectName: 'Daily Diary',
         projectDesc: 'This project is for noting down daily tasks, where user can create, update and delete their routine activities just like daily to do',
