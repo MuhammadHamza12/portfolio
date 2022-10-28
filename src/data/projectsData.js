@@ -38,21 +38,21 @@ export const projectsData = [
     },
     {
         id: 4,
-        projectName: 'Reliance Digital Clone - Backend Integration',
+        projectName: 'Oman Pakistan Embassy Application ( Mobile Version )',
         projectDesc: 'This is the clone of reliancedigital.in. Features I worked on the Product Catalogue pages and also on some minor parts on other pages as well',
-        tags: ['EJS', 'Express', 'MongoDB', 'Node.js'],
+        tags: ['React Native', 'Firebase','React Navigation','Firebase Cloud Functions', 'Push notification'],
         code: 'https://github.com/sreerag-rajan/Reliance-Digital-Clone-U4-',
         demo: 'https://reliance-digital-clone.herokuapp.com/',
-        image: "https://miro.medium.com/max/875/1*qRNfRbuHCDC1ct0chLZoWA.png"
+        image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/linkit.jpeg"
     },
     {
         id: 5,
-        projectName: 'Reliance Digital Clone - Frontend',
+        projectName: 'Beacon',
         projectDesc: 'This project is the clone of Reliance Digital built as a part of a project week. It simulates the functionality of an e-commerce website from landing page to checkout. My contribution was the product catalog page arriving from the navbar, as well as leading the team.',
-        tags: ['HTML', 'CSS', 'Javascript'],
+        tags: ['React Native', 'UI Design', 'React Navigation'],
         code: 'https://github.com/iamrituyadav/Reliance_digital',
         demo: 'https://reliance-digital-clone.herokuapp.com/',
-        image: "https://miro.medium.com/max/875/1*qRNfRbuHCDC1ct0chLZoWA.png"
+        image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/beacon.jpeg"
     },
     
 ]
