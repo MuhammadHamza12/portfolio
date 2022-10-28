@@ -29,12 +29,12 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'Educative Clone',
-        projectDesc: 'This project is the clone of Educative.io. Built as part of Project week, my contributions include the home page(both with user and without user), course information page and checkout page. The rest of the pages and features were built by other members of my team',
-        tags: ['React', 'Material UI', 'Express', "MongoDB","NodeJS"],
-        code: 'https://github.com/sreerag-rajan/educative-clone',
-        demo: 'https://educative-clone.vercel.app/',
-        image: "https://user-images.githubusercontent.com/85482640/161571651-35ab8e4e-dc57-4834-bafc-9485766f5b8a.png"
+        projectName: 'Daily Diary',
+        projectDesc: 'This project is for noting down daily tasks, where user can create, update and delete their routine activities just like daily to do',
+        tags: ['React Native', 'Async Storage','Native Base', 'React Navigation'],
+        code: 'https://github.com/MuhammadHamza12/react-native-diary-app',
+        demo: 'https://youtu.be/Vrs6jFw7KQ8',
+        image: "https://raw.githubusercontent.com/MuhammadHamza12/portfolio/master/src/assets/daily_dairy.jpeg"
     },
     {
         id: 4,

@@ -41,7 +41,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                 className='singleProject'
                 style={{ backgroundColor: theme.primary400 }}
             >
-                <div className='projectContent'>
+                <div style={{width:image.includes('daily_diary.jpeg') && ''}} className={`${image.includes('daily_diary.jpeg') ? '' : 'projectContent'}`}>
                     <h2
                         id={name.replace(' ', '-').toLowerCase()}
                         style={{ color: theme.tertiary }}
