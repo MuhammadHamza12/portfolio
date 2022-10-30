@@ -313,7 +313,7 @@ function Contacts() {
                         </div>
 
                         <div className='socialmedia-icons'>
-                            {/* {socialsData.twitter && (
+                            {socialsData.twitter && (
                                 <a
                                     href={socialsData.twitter}
                                     target='_blank'
@@ -322,7 +322,7 @@ function Contacts() {
                                 >
                                     <FaTwitter aria-label='Twitter' />
                                 </a>
-                            )} */}
+                            )}
                             {socialsData.github && (
                                 <a
                                     href={socialsData.github}
@@ -333,7 +333,7 @@ function Contacts() {
                                     <FaGithub aria-label='GitHub' />
                                 </a>
                             )}
-                            {socialsData.linkedIn && (
+                            {/* {socialsData.linkedIn && (
                                 <a
                                     href={socialsData.linkedIn}
                                     target='_blank'
@@ -342,7 +342,7 @@ function Contacts() {
                                 >
                                     <FaLinkedinIn aria-label='LinkedIn' />
                                 </a>
-                            )}
+                            )} */}
                             {/* {socialsData.instagram && (
                                 <a
                                     href={socialsData.instagram}

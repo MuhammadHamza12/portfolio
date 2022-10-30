@@ -75,7 +75,7 @@ function Landing() {
                     style={{ backgroundColor: theme.primary }}
                 >
                     <div className='lcl--content'>
-                        {socialsData.linkedIn && (
+                        {/* {socialsData.linkedIn && (
                             <a
                                 href={socialsData.linkedIn}
                                 target='_blank'
@@ -87,7 +87,7 @@ function Landing() {
                                     aria-label='LinkedIn'
                                 />
                             </a>
-                        )}
+                        )} */}
                         {socialsData.github && (
                             <a
                                 href={socialsData.github}
@@ -101,7 +101,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {/* {socialsData.twitter && (
+                         {socialsData.twitter && (
                             <a
                                 href={socialsData.twitter}
                                 target='_blank'
@@ -114,6 +114,7 @@ function Landing() {
                                 />
                             </a>
                         )}
+                        {/*
                         {socialsData.youtube && (
                             <a
                                 href={socialsData.youtube}
@@ -171,9 +172,9 @@ function Landing() {
                                     target='_blank'
                                     rel='noreferrer'
                                 >
-                                    <Button className={classes.resumeBtn}>
+                                    {/* <Button className={classes.resumeBtn}>
                                         Download CV
-                                    </Button>
+                                    </Button> */}
                                 </a>
                             )}
                             <NavLink
